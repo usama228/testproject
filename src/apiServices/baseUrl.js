@@ -1,0 +1,1 @@
+export const baseURL = 'https://profound-marmot-29.hasura.app/v1/graphql'
